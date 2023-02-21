@@ -1,0 +1,55 @@
+header{
+
+    text-align: center;
+}
+body{
+    background-color:burlywood;
+}
+
+menu{
+
+    text-align: center;
+    background-color: rgb(130, 220, 255);
+}
+
+div.img1{
+    margin: left 18px;
+    margin-top: 50px;
+    text-align: right;
+    background-color: bisque;
+    float: left;
+
+
+}
+
+div.img1 ::first-line{
+
+background-color: blue ;
+border-color: blue ;
+border-bottom: 5px;
+
+
+}
+
+form{
+
+    background-color: rgb(114, 177, 250);
+    text-align: left;
+}
+p{
+    text-align: center;
+}
+
+div.img2{
+
+float: right;
+width: 500px;
+height: 30px;
+text-align: left;
+}
+
+div.sub{
+
+    background-color: burlywood;
+    text-align: center;
+}
